@@ -7,7 +7,7 @@ This project demonstrates how to create a structured directory, populate it with
 
 ### 1. Set Up the Project Directory Structure
 
-**Create a Main Project Directory:**
+Create a Main Project Directory:**
 
 mkdir ArchiveProject
 cd ArchiveProject
