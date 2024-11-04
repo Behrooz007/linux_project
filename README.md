@@ -7,7 +7,7 @@ This project demonstrates how to create a structured directory, populate it with
 
 ### 1. Set Up the Project Directory Structure
 
-Create a Main Project Directory:**
+**Create a Main Project Directory:**
 
 mkdir ArchiveProject
 cd ArchiveProject
@@ -15,7 +15,7 @@ cd ArchiveProject
 ### 2. Set Up the Project Directory Structure
 
 Create the following subdirectories within the ArchiveProject directory:
-mkdir dir1 dir2 dir3
+mkdir dir1 dir2 dir3.
 
 This command creates three subdirectories: dir1, dir2, and dir3, which will be used to store the sample files.
 
